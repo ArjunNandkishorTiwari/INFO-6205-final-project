@@ -19,16 +19,19 @@ Requirements:
 
 Grading:
 
-Quality (20%) Attention to detail. A project that runs but just meets requirements can expect to get 80% (B-) on the final project. An "OK" final project will typically get 85% (B), and good/very good final project will usually get 90%+ (B+/A-), an excellent final project can expect to get 95% (A), and a truly exceptional final project would get 100%.
+<li>Quality (20%) Attention to detail. A project that runs but just meets requirements can expect to get 80% (B-) on the final project. An "OK" final project will typically get 85% (B), and good/very good final project will usually get 90%+ (B+/A-), an excellent final project can expect to get 95% (A), and a truly exceptional final project would get 100%.</li>
 
-Scope (50%) Did you do what you said you would in your proposal?
+<li>Scope (50%) Did you do what you said you would in your proposal?</li>
 
-Code (15%)  You must submit well-documented code.
+<li>Code (15%)  You must submit well-documented code.</li>
 
-Video (10%) Even if your project is online you must create a video.
+<li>Video (10%) Even if your project is online you must create a video.</li>
 
-License (5%) MIT or your copyright, etc.
+<li>License (5%) MIT or your copyright, etc.<,li>
 
-
+<br>
 Youtube Link for video by me :- https://www.youtube.com/watch?v=wiO8L-9sr7Y
+<br>
 Youtube Link for visualization :- https://www.youtube.com/watch?v=izbYVKHJ99E
+<br>
+<br>
