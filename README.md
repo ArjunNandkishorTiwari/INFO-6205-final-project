@@ -27,11 +27,11 @@ Grading:
 
 <li>Video (10%) Even if your project is online you must create a video.</li>
 
-<li>License (5%) MIT or your copyright, etc.<,li>
+<li>License (5%) MIT or your copyright, etc.</li>
 
 <br>
-Youtube Link for video by me :- https://www.youtube.com/watch?v=wiO8L-9sr7Y
+<h5>Youtube Link for video by me :-</h5> https://www.youtube.com/watch?v=wiO8L-9sr7Y <br><br>
 <br>
-Youtube Link for visualization :- https://www.youtube.com/watch?v=izbYVKHJ99E
+<h5>Youtube Link for visualization :- </h5>https://www.youtube.com/watch?v=izbYVKHJ99E
 <br>
 <br>
